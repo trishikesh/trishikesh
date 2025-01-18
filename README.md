@@ -2,17 +2,19 @@
     👋 I am Tanya Rishikesh!
 </h1>
 
-<h3 align="center">A passionate software developer from India IN</h3>
+<h3 align="center">🌟 Tech enthusiast | AI innovator | Crafting elegant solutions at the intersection of creativity and technology.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently a **a BTEch. 2nd year student**
+ 💻 I’m currently a **a BTEch. 2nd year student**
  
  🌱 I’m currently learning **AI, ML and Data Science**
 
-⚡ Fun fact **Coders are good mathematicians**
+ ⚡ Note to self **I am going to make you so proud**
+
+ 
 
  </div>
  
