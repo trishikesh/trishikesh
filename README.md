@@ -2,7 +2,7 @@
     👋 I am Tanya Rishikesh!
 </h1>
 
-<h3 align="center">🌟 Tech enthusiast | AI innovator | Crafting elegant solutions at the intersection of creativity and technology|</h3>
+<h3 align="center">🌟 Tech enthusiast | AI innovator | Crafting elegant solutions at the intersection of creativity and technology |</h3>
 
 <br/>
 
